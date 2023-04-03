@@ -1,1 +1,16 @@
+Instal vs code extension for go
+Install go msi in go.dev with version(1.20.2)
+check in programfiles go folder created and check go commands in cmd prompt
 
+package temp
+import "fmt1"
+func main() {
+	fmt.Println("Hello World !!!")
+}
+
+
+go fmt LB1.GO
+Obser erroes - wrong import - Go ROOT, dir,wrong package
+modify fmt and main package
+press enter before { after main
+change fmt.Println to println (check error)
